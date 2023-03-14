@@ -1,19 +1,14 @@
 <div align="center">  
 [![bbohec's github stats](https://github-readme-stats.vercel.app/api?username=bbohec&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/bbohec/bbohec)  
-    
+
 ![](https://komarev.com/ghpvc/?username=bbohec)
 </div>  
 
 
 # Opensource work highlight
+
 ## The Cleavage Game
-<iframe 
-    width="560" height="315"
-    src="https://www.youtube.com/embed/XXyQlw4wVH4" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
-></iframe>
+[![The Cleavage Game](https://img.youtube.com/vi/XXyQlw4wVH4/0.jpg)](https://www.youtube.com/watch?v=XXyQlw4wVH4)
 
 [PLAY IT](https://lejeuduclivage.com/)
 
