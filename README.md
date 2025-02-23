@@ -9,6 +9,11 @@
 
 # Opensource work highlight
 
+## beta.gouv - Plateforme de l'Inclusion - Immersion Facilitée
+[![Immersion Facilitée](https://github.com/user-attachments/assets/bdb8cad4-46bf-4d5f-9139-11705f009a43)](https://immersion-facile.beta.gouv.fr/)
+
+[USE IT](https://immersion-facile.beta.gouv.fr/)
+
 ## The Cleavage Game
 [![The Cleavage Game](https://img.youtube.com/vi/XXyQlw4wVH4/0.jpg)](https://www.youtube.com/watch?v=XXyQlw4wVH4)
 
