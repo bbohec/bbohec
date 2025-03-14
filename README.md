@@ -9,7 +9,7 @@
 
 # Opensource work highlight
 
-## beta.gouv - Plateforme de l'Inclusion - Immersion Facilitée - 2022/now
+## beta.gouv - Plateforme de l'Inclusion - Immersion Facilitée - team 546 Days - 2022/now
 [![Immersion Facilitée](https://github.com/user-attachments/assets/bdb8cad4-46bf-4d5f-9139-11705f009a43)](https://immersion-facile.beta.gouv.fr/)
 
 [USE IT](https://immersion-facile.beta.gouv.fr/)
